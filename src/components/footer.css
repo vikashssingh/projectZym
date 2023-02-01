@@ -1,0 +1,147 @@
+
+
+.footerwtf{
+    padding-top: 60px;
+    width: 100vw;
+    height: auto;
+display: flex;
+color: white;
+background-color: black;
+
+}
+
+.subfooter{
+    width: 80%;
+display: flex;
+margin: auto;
+
+justify-content: space-around;
+}
+.subfooter>div{
+height: 400px;
+width: 300px;
+font-size: 20px;
+margin: auto;
+
+}
+
+.subfooter>div>ul>li{
+    margin: 10px 0px 15px 0px;
+    list-style: none;
+   
+}
+.logocontrol{
+   padding-top: 30px;
+}
+.logocontrol>div{
+    display: flex;
+}
+.logocontrol>img{
+ width: 100px;
+ height: 50px;
+ margin-left: 30px;
+ margin-bottom: 60px;
+}
+
+
+.fa-brandsh{
+ margin-left: 10px;
+font-size: 23px;
+color:#e86491;
+background: white;
+width: 40px;
+border-radius: 50%;
+height: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+ 
+}
+
+.fa-brandsh:hover{
+    color: white;
+    background-color:#e86491;
+    }
+
+.fa-brands1{
+ 
+    font-size: 20px;
+    color:#4267b2;
+    background: white;
+    width: 40px;
+    border-radius: 50%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.fa-brands1:hover{
+    color: white;
+    background-color:#4267b2;
+    }
+
+    .fa-brands2{
+     
+        font-size: 20px;
+        color: #167aab;
+        background: white;
+        width: 40px;
+        border-radius: 50%;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fa-brands2:hover{
+        color: white;
+        background-color:#167aab;
+        }
+
+
+
+.logoin{
+background-color: red;
+font-size: 20px;
+}
+
+.fa-solid{
+    margin-right: 15px;
+}
+
+
+
+li{
+color: #b2b2b2;
+}
+
+.fontawesomelast>ul>div{
+    list-style: none;
+    display: flex;
+    color: #b2b2b2;
+    width:40%;
+   
+    text-align: start;
+    width: 215px;
+}
+.fontawesomelast>ul>li:nth-child(2){
+  width: 250px;
+  border: 1px solid red;
+  text-align: center;
+}
+
+.wighthigh{
+    font-weight: 700;
+    color: white;
+    margin: 30px;
+    height: 50px;
+
+    
+}
+i{
+    color: white;
+}
